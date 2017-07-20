@@ -1,0 +1,24 @@
+body{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    }
+#Canvas{
+    border: solid grey;
+}
+#Head_date{
+    border-bottom: solid grey;
+    height: 100px;
+    width: 600px;
+    font-size: large;
+    font-stretch: semi-condensed;
+}
+#text{
+    text-align: right;
+    float:left
+}
+#text_date{
+    float:right;
+    text-align: center;
+    display: flex;
+}
